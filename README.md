@@ -38,7 +38,7 @@
 <!-- Skills and Tools-->
 <details align="center">
   <summary>
-    <b><samp>View my Skils & Tools</samp></b>
+    <b><samp>View my Skills & Tools</samp></b>
   </summary>
   <samp>
     <br>
