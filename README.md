@@ -31,14 +31,14 @@
 #  👨‍💻 Information Technology Engineer (ITI).
 -  🚀 Optimizing web pages.
 !  ✨ If you can imagine it, you can program it. 
-@@ 💻Solving problems from a self-built computer.@@
+@@ 💻 Solving problems from a self-built computer. @@
 ```
 
 ---
-<!-- Skills and Tools-->
+<!-- Skills and Tools -->
 <details align="center">
   <summary>
-    <b><samp>View my Skills & Tools</samp></b>
+    <b><samp> 📚 View my Skills & Tools</samp></b>
   </summary>
   <samp>
     <br>
